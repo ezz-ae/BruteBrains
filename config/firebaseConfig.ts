@@ -1,0 +1,2 @@
+// Replace with your Firebase config
+export const firebaseConfig = { apiKey: '', authDomain: '', projectId: '' };
