@@ -1,14 +1,14 @@
 
-# 🧠 BruteBrains.com – Mega Repo
+ BruteBrains.com 
 
-Welcome to the **official BruteBrains.com Mega Repo** – a puzzle-based, Firebase-powered, AI-integrated mental challenge platform. This project includes a React front-end, Firebase backend, admin tools, machine learning hooks, and the legendary `Conclogan` engine.
+a puzzle-based, Firebase-powered, AI-integrated mental challenge platform. This project includes a React front-end, Firebase backend, admin tools, machine learning hooks, and the legendary `Conclogan` engine.
 
 ---
 
 ## 📁 Directory Structure
 
 ```
-BruteBrains_MegaRepo_Full/
+BruteBrains
 ├── public/                  # Firebase hosting root
 │   └── index.html           # Static placeholder
 ├── src/                     # React frontend app
@@ -24,18 +24,18 @@ BruteBrains_MegaRepo_Full/
 
 ---
 
-## 🚀 Features
+## Features
 
-- 🔐 **Puzzle Auth Engine** (Optional crypto-wallet tie-in)
-- 🧠 **Conclogan ML Hook** – analyzes player decisions over time
-- 🧩 **Time-Margin Logic** – adjusts based on player pace & struggle
-- 🕹️ **Minimal UI** – only 3 screens: `Game`, `Challenge`, `Board`
-- ⚙️ **Firebase Cloud Functions** for scoring, time limits, and updates
-- 🔮 Future-ready for TensorFlow.js or FireML integrations
+- Puzzle Auth Engine** (Optional crypto-wallet tie-in)
+- Conclogan ML Hook** – analyzes player decisions over time
+- Time-Margin Logic** – adjusts based on player pace & struggle
+- Minimal UI** – only 3 screens: `Game`, `Challenge`, `Board`
+- Firebase Cloud Functions** for scoring, time limits, and updates
+  Future-ready for TensorFlow.js or FireML integrations
 
 ---
 
-## 🔧 How to Deploy
+How to Deploy
 
 1. **Install Firebase CLI**
 ```bash
@@ -59,7 +59,7 @@ firebase deploy
 
 ---
 
-## 🧠 Conclogan Logic (functions/index.ts)
+Conclogan Logic (functions/index.ts)
 Conclogan is an AI-driven logic engine that evaluates:
 - Player intent and response patterns
 - Puzzle success proximity
@@ -67,27 +67,23 @@ Conclogan is an AI-driven logic engine that evaluates:
 
 ---
 
-## 🔒 Admin Panel (admin/)
+Admin Panel (admin/)
 Use FireCMS, Firebase Console, or custom dashboards.
 (Optionally powered via Supabase/Retool/Rowy in future releases.)
 
 ---
 
-## 📅 Roadmap
-
-- [x] Firebase Function Structure
-- [x] React Frontend
-- [x] Conclogan Prompt Scaffold
-- [ ] ML training loop for puzzle adaptation
-- [ ] Leaderboard and A/B logic tweaks
-- [ ] Scratch-to-Reveal Puzzle UX
-
----
-
-## 🧩 Contribute?
-
-This project is experimental, open-ended, and **smart by design.** Want to test it, expand it, or plug in your own AI? Welcome aboard.
+Roadmap
+Firebase Function Structure
+React Frontend
+Conclogan Prompt Scaffold
+ML training loop for puzzle adaptation
+Leaderboard and A/B logic tweaks
+Scratch-to-Reveal Puzzle UX
 
 ---
 
-Made by 🧠 and 🔥.
+#Contribute?
+
+This project is experimental, open-ended, and  smart by design. Want to test it, expand it, or plug in your own AI? Welcome aboard.
+
