@@ -5,7 +5,7 @@ a puzzle-based, Firebase-powered, AI-integrated mental challenge platform. This 
 
 ---
 
-## 📁 Directory Structure
+ Directory Structure
 
 ```
 BruteBrains
